@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tech.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tech.y5u17r2bb4.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\0e15fd55-cc72-4c4a-85fc-c9612f202e5e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\0e15fd55-cc72-4c4a-85fc-c9612f202e5e.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\23259375-acff-474a-8f10-b4a2223f1320.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\23259375-acff-474a-8f10-b4a2223f1320.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\28e7cc91-f000-4419-b2f1-27c6783f27be.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\28e7cc91-f000-4419-b2f1-27c6783f27be.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\31e62c60-772f-4531-af08-7646cf26f727.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\31e62c60-772f-4531-af08-7646cf26f727.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\8c3a2371-be75-41fc-9c31-700a5c33c353.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8c3a2371-be75-41fc-9c31-700a5c33c353.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-1\\643507ee-c5f0-4eb2-bf9d-00ae57a5e401.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-1\\643507ee-c5f0-4eb2-bf9d-00ae57a5e401.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-1\\92c0aaca-4bea-4d76-ae43-96502fa02670.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-1\\92c0aaca-4bea-4d76-ae43-96502fa02670.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-2\\4a00df2a-6a97-40c2-8c28-bcbf9718cf41.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-2\\4a00df2a-6a97-40c2-8c28-bcbf9718cf41.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-2\\b402df31-dcb3-42d5-9df2-647dbd2dc974.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-2\\b402df31-dcb3-42d5-9df2-647dbd2dc974.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-3\\08e6cf8b-b6a5-436b-91bd-90776addea12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-3\\08e6cf8b-b6a5-436b-91bd-90776addea12.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-3\\705f180d-91d0-4746-89a1-90375e9f90a2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-3\\705f180d-91d0-4746-89a1-90375e9f90a2.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-4\\76a82784-d245-4cc3-8ad8-d8191842ca7b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-4\\76a82784-d245-4cc3-8ad8-d8191842ca7b.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-4\\7e9babdb-43ad-4d4e-929d-153a766606d1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-4\\7e9babdb-43ad-4d4e-929d-153a766606d1.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-5\\2d78e021-4f97-4f76-9654-9a5ebb7d9a5b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-5\\2d78e021-4f97-4f76-9654-9a5ebb7d9a5b.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-5\\e689a952-9810-48d1-83a6-317f5a163f0a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-5\\e689a952-9810-48d1-83a6-317f5a163f0a.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-6\\08a959f1-9a12-4746-bc53-65413c2eda1a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-6\\08a959f1-9a12-4746-bc53-65413c2eda1a.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\Product-6\\235c89d9-4d94-45ab-b069-85101749dbbe.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\Product-6\\235c89d9-4d94-45ab-b069-85101749dbbe.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\ad9a9796-f368-411c-ba9f-c64c3936f38a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ad9a9796-f368-411c-ba9f-c64c3936f38a.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\be3e3535-30a9-458e-acd3-a9137670634e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\be3e3535-30a9-458e-acd3-a9137670634e.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\c2e18696-6935-45ba-b52b-c200591bc21a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c2e18696-6935-45ba-b52b-c200591bc21a.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\d3f981fe-6244-47d2-ba90-ddcd2d553524.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\d3f981fe-6244-47d2-ba90-ddcd2d553524.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\d8b78d33-032a-420a-b3db-1264b67b5c5e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\d8b78d33-032a-420a-b3db-1264b67b5c5e.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\d92281d2-7659-4d5b-ae83-722ebbfc6fc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\d92281d2-7659-4d5b-ae83-722ebbfc6fc1.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\e36d69b8-905a-4a45-96ae-b64bfa65533c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e36d69b8-905a-4a45-96ae-b64bfa65533c.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\Products\\f7a3ecd0-45c3-4ec1-b248-c613a8c29d6f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\f7a3ecd0-45c3-4ec1-b248-c613a8c29d6f.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\book.png",
+      "PackagePath": "staticwebassets\\Images\\book.png"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\Images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Microsoft Visual Studio\\C#\\Tech\\Tech\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tech.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tech.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tech.props",
+      "PackagePath": "build\\Tech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tech.props",
+      "PackagePath": "buildMultiTargeting\\Tech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tech.props",
+      "PackagePath": "buildTransitive\\Tech.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
