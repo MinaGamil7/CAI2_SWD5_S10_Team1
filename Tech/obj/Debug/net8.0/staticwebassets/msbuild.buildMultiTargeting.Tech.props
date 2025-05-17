@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Tech.props" />
-</Project>
